@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BackBarView">
+        <attr name="rightType">
+            <enum name="none" value="1" />
+            <enum name="text" value="2" />
+            <enum name="icon" value="3" />
+        </attr>
+        <attr name="rightIcon" format="reference"></attr>
+        <attr name="rightText" format="reference"></attr>
+        <attr name="titleText" format="reference"></attr>
+        <attr name="backHide" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>

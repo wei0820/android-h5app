@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">新宝科技</string>
+    <string name="load">系统加载中，请您稍候!</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="url_test_rest">重试</string>
+    <string name="app_cancel">退出</string>
+
+    <string name="out">重新启动</string>
+    <string name="wait">暂不重启</string>
+    <string name="is_out">是否重启APP?</string>
+</resources>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_grey">#9e9e9e</color>
+    <color name="text_black">#171717</color>
+
+    <color name="fire_translucent">#7f000000</color>
+    <color name="main_bg">#efefef</color>
+
+    <color name="new_item_black">#FF242424</color>
+    <color name="dialog_btn_text">#FFFF802B</color>
+    <color name="fire_dialog_bg">#7F000000</color>
+    <color name="new_title_gray">#FF929292</color>
+    <color name="fire_no_data_black">#FF666666</color>
+    <color name="fire_loading_bg">#CCFFFFFF</color>
+    <color name="ffcc00">#ffcc00</color>
+    <color name="common_top_bar_bg">#DEDEDE</color>
+    <color name="text_red">#ff591f</color>
+    <color name="text_red_unable">#666666</color>
+    <color name="colorFontPrimary">#FFFFFF</color>
+    <color name="colorBackground">#eeeeee</color>
+    <color name="colorSecondary">#99A1A8</color>
+    <color name="barBackground">#157df1</color>
+    <color name="black">#000000</color>
+</resources>
