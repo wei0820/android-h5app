@@ -224,6 +224,7 @@ public class MainActivity extends BaseActivity {
 
                 @Override
                 public void onResponse(String json) {
+                    Log.d("Jack",json);
                     if (!isBreak) {
                         isBreak = true;
                         Gson gson = new Gson();
