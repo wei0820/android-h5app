@@ -50,7 +50,8 @@ public class ConfigAPP {
 //        String configJson = LocalJsonResolutionUtils.getJson(mContext,fileName);
         String configJson = "";
         try {
-            configJson = AESUtils.decrypt(KEY,IV,LocalJsonResolutionUtils.getJson(mContext,fileName));
+            String s = AESUtils.encrypt(KEY,IV,LocalJsonResolutionUtils.getJson(mContext,fileName));
+            configJson = AESUtils.decrypt(KEY,IV,s);
         } catch (Exception e) {
             e.printStackTrace();
         }
